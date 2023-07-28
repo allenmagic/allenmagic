@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @allenmagic，also call me Eggs or 蛋兄.
-- 👀 I’m interested in ... 吃喝玩乐 ... 躺平
-- 🌱 I’m currently learning ... 吃喝玩乐，然后躺平。
-- 💞️ I’m looking to collaborate on ... 吃喝玩乐，躺平！
+# My Blog
+- 👋 Hi, I’m @allenmagic，also call me brother Eggs.
+- 👀 I’m interested in ... eating ... drinking ... playing ... be happy ... and then lie flat ...
+- 🌱 I’m currently learning ... eating ... drinking ... playing ... be happy ... and then lie flat ...
+- 💞️ I’m looking to collaborate on ... eating ... drinking ... playing ... be happy ... and then lie flat ...
 - 📫 How to reach me ... no way to reach me. Bye!
 
-扯淡玩意儿！
-为了吃喝玩乐，躺平！
-奋斗！
+WTF!
+For eating ... drinking ... playing ... be happy ... and then lie flat ...
+
+to
+
+fighting！
 
 <!---
 allenmagic/allenmagic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
