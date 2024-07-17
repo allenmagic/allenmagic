@@ -16,7 +16,7 @@ fighting！
 - 传统金融机构（公募/PE/VC）应用系统产品经理，从事产品经理工作10+年，算是比较资深
 - 擅长数据分析、用户调研、逻辑分析处理、写需求文档和画原型
 - 熟悉Excel、R、Axure、Sketch、Figma之类的玩意儿，偶尔也会借助ChatGPT弄一些脚本程序
-- 喜欢标记型语言文档工具markdown，reStructuretext、LaTeX、org-mode等，但经常查mannual那种
+- 擅长markdown，reStructuretext、LaTeX、org-mode等标记语言写文档，但经常查mannual那种
 - 喜欢哲学、历史、心理学、物理、计算机、中医学等等一些玩意儿，纯粹玩票性质的阅读这类的书籍
 - 心理学是除了主业外目前有希望的副业，因为是拿到了国家二级心理咨询师资格
 - 喜欢Linux，因为这玩意儿忒开放自由
